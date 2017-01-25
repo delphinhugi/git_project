@@ -1,1 +1,8 @@
 #Delphin fyrirsogn
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd - changes drive location
+	cd ~ - Goes to the users home directory
+	ls - Shows a list of all the files in the drive 
+	pwd - Shows the current directory you're in
+	mkdir - Adds a new directory to the current directory you're in 
