@@ -14,3 +14,22 @@
 	git status - Checks for changes
 	git diff - Shows the changes of different commits
 	git checkout - Pushes your version to the selected version of your program of choice
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+
+9.	Hver fann upp GIT?
+
+10.	Hvar er GIT helst notað?
