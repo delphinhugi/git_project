@@ -6,3 +6,11 @@
 	ls - Shows a list of all the files in the drive 
 	pwd - Shows the current directory you're in
 	mkdir - Adds a new directory to the current directory you're in 
+
+
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone - This gets a copy of a repository, useful for backups so if you break the code you can get a previous version of it
+	git log - Shows what has changed in your git repo
+	git status - Checks for changes
+	git diff - Shows the changes of different commits
+	git checkout - Pushes your version to the selected version of your program of choice
